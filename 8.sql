@@ -1,0 +1,1 @@
+SELECT '11' AS A, 'de' AS TRYBE, '10' AS eh;
